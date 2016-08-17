@@ -1,19 +1,6 @@
 name: two
-favicon: null
 layout_spectrum: 0.5733950288979884
 typography_spectrum: 0.5691713285606601
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFF8E3'
@@ -21,8 +8,7 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-  brandStrength: 0.1875
-  lightness: 0.6875
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+  brandStrength: 0.0890405871347788
+  lightness: 0.057371800260897055
+  saturation: 0.16084551469723418
+  rhythmicContrast: 0.5858652472459488
